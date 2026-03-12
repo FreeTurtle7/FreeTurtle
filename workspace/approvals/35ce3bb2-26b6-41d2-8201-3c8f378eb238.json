@@ -1,0 +1,16 @@
+{
+  "id": "35ce3bb2-26b6-41d2-8201-3c8f378eb238",
+  "runId": "bae311a0-59ab-482e-ba02-1242454d571b",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "config.md",
+    "old_text": "## Modules\n### farcaster\n- enabled: true",
+    "new_text": "## Modules\n### farcaster\n- enabled: true\n- allowed_channels: onlybots"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-12T17:45:35.505Z",
+  "expiresAt": "2026-03-12T17:50:35.505Z",
+  "decidedAt": "2026-03-12T17:45:47.999Z",
+  "decidedBy": "channel"
+}

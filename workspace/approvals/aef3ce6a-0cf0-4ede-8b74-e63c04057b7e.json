@@ -1,0 +1,14 @@
+{
+  "id": "aef3ce6a-0cf0-4ede-8b74-e63c04057b7e",
+  "runId": "93c321b0-4fb2-4dde-b300-6f53cdc2e529",
+  "toolName": "run_command",
+  "reason": "Tool \"run_command\" requires founder approval",
+  "input": {
+    "command": "agent-browser open https://clawhub.ai/mtple/onlybots-farcaster"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-11T17:34:40.570Z",
+  "expiresAt": "2026-03-11T17:39:40.570Z",
+  "decidedAt": "2026-03-11T17:34:44.301Z",
+  "decidedBy": "channel"
+}

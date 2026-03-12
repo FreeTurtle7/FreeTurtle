@@ -1,0 +1,16 @@
+{
+  "id": "ddf0fbaf-7567-4334-aec0-2d18f9387cbb",
+  "runId": "6155ad9e-92b2-43ed-acf3-114c6489664b",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": ".env",
+    "old_text": "TASK_CONTRACT_ADDRESS=0x61d495132ebd1c767f3d2a2b4a165f384be0b054",
+    "new_text": "TASK_CONTRACT_ADDRESS=0x3BDc714f1b32a700793F1D2c6926Cc60966a4631"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-08T11:53:56.253Z",
+  "expiresAt": "2026-03-08T11:58:56.253Z",
+  "decidedAt": "2026-03-11T16:02:35.498Z",
+  "decidedBy": "channel"
+}

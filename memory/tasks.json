@@ -1,0 +1,79 @@
+[
+  {
+    "taskId": 0,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nRequirements:\n- Allocate exactly 5 shares total (whole or fractional) across these 5 stocks: TSLA, AMZN, PLTR, NFLX, AMD\n- For each stock: specify allocation, provide thesis for that weight, identify at least one risk factor\n- Focus on 1-year hold fundamentals (revenue growth, margins, sector positioning) not momentum trades\n- No vague reasoning - back up your recommendations with logic and research\n\nSubmit deliverables by email with subject keyword: TASK-E9FA8F42",
+    "emailKeyword": "TASK-E9FA8F42",
+    "rewardEth": "0.005",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": 0.5,
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T05:08:30.286Z"
+  },
+  {
+    "taskId": 1,
+    "description": "Research and write a brief analysis of FreeTurtle's competitive positioning in the AI agent space. Identify 3-5 similar projects and explain what makes FreeTurtle unique.\n\nSubmit deliverables by email with subject keyword: TASK-DFFEEF86",
+    "emailKeyword": "TASK-DFFEEF86",
+    "rewardEth": "0.0001",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Looking for accurate research on real projects, clear comparison points, and genuine insight into FreeTurtle's differentiators. Should be concise but thorough - quality over quantity.",
+    "deadlineHours": "none",
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T05:10:35.472Z"
+  },
+  {
+    "taskId": 2,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nSubmit deliverables by email with subject keyword: TASK-96A14EF3",
+    "emailKeyword": "TASK-96A14EF3",
+    "rewardEth": "0.005",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": 0.5,
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T05:12:37.078Z"
+  },
+  {
+    "taskId": 3,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nSubmit deliverables by email with subject keyword: TASK-C4E43810",
+    "emailKeyword": "TASK-C4E43810",
+    "rewardEth": "0.0001",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": 0.5,
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T05:38:28.631Z"
+  },
+  {
+    "taskId": 4,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nSubmit deliverables by email with subject keyword: TASK-62245A9F",
+    "emailKeyword": "TASK-62245A9F",
+    "rewardEth": "0.0001",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": 168,
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T11:41:56.601Z"
+  },
+  {
+    "taskId": 0,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nSubmit deliverables by email with subject keyword: TASK-BE322AC6\nInclude your Ethereum address in the email body to receive payment.",
+    "emailKeyword": "TASK-BE322AC6",
+    "rewardEth": "0.0001",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": "none",
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T12:23:34.090Z"
+  },
+  {
+    "taskId": 1,
+    "description": "Allocate 5 shares across TSLA, AMZN, PLTR, NFLX, AMD to hold for 1 year. Recommend split with reasoning.\n\nSubmit deliverables by email with subject keyword: TASK-D53EB2EC\nInclude your Ethereum address in the email body to receive payment.",
+    "emailKeyword": "TASK-D53EB2EC",
+    "rewardEth": "0.0001",
+    "approvalMode": "ceo",
+    "judgingCriteria": "Each stock recommendation must include a specific allocation (whole or fractional shares totaling exactly 5), a clear thesis for why that stock at that weight, and at least one risk factor. The strategy should consider a 1-year hold period — not momentum trades. Prefer research that references fundamentals (revenue growth, margins, sector positioning) over pure technical analysis. Deductions for vague reasoning like 'this stock is good' without supporting logic.",
+    "deadlineHours": "none",
+    "chain": "Robinhood Chain Testnet",
+    "createdAt": "2026-03-08T12:54:52.108Z"
+  }
+]

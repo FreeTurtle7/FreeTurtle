@@ -1,0 +1,16 @@
+{
+  "id": "149fc38d-59d7-4fd6-b80b-5feda55b502f",
+  "runId": "eea649fc-585b-4af6-97a7-a2b66291527d",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "config.md",
+    "old_text": "## Modules\n### farcaster\n- enabled: true\n\n### database\n- enabled: false\n\n### github\n- enabled: false\n\n### onchain\n- enabled: true\n\n### gmail\n- enabled: true",
+    "new_text": "## Modules\n### farcaster\n- enabled: true\n\n### database\n- enabled: false\n\n### github\n- enabled: false\n\n### onchain\n- enabled: true\n\n### gmail\n- enabled: true\n\n## Skills\n### onlybots-farcaster\n- url: https://clawhub.ai/mtple/onlybots-farcaster"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-11T16:02:42.856Z",
+  "expiresAt": "2026-03-11T16:07:42.856Z",
+  "decidedAt": "2026-03-11T16:05:56.417Z",
+  "decidedBy": "channel"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "8b570806-4d96-411c-bd1c-ee9d8fd83396",
+  "runId": "c52d536e-d2fe-4586-949e-08da6f8ce233",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "config.md",
+    "old_text": "### github\n- enabled: false",
+    "new_text": "### github\n- enabled: true"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-12T17:34:41.366Z",
+  "expiresAt": "2026-03-12T17:39:41.366Z",
+  "decidedAt": "2026-03-12T17:34:48.658Z",
+  "decidedBy": "channel"
+}

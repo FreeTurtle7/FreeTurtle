@@ -1,0 +1,29 @@
+{
+  "runId": "6d1f6b6d-669b-43ec-92ff-c1ab14dd486f",
+  "taskName": "heartbeat",
+  "startedAt": "2026-03-07T05:56:08.440Z",
+  "completedAt": "2026-03-07T05:56:11.642Z",
+  "status": "success",
+  "promptPreview": "This is a scheduled heartbeat check. Review your heartbeat checklist. If everything looks fine, respond with exactly HEARTBEAT_OK. If something needs attention, describe what you found.",
+  "toolCalls": [
+    {
+      "name": "read_mentions",
+      "input": {
+        "limit": 10
+      },
+      "output": "[]",
+      "durationMs": 165,
+      "retries": 0
+    },
+    {
+      "name": "read_file",
+      "input": {
+        "path": "workspace/memory/posting-log.json"
+      },
+      "output": "[]",
+      "durationMs": 1,
+      "retries": 0
+    }
+  ],
+  "totalDurationMs": 3202
+}

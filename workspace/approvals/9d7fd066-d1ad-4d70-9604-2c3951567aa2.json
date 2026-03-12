@@ -1,0 +1,15 @@
+{
+  "id": "9d7fd066-d1ad-4d70-9604-2c3951567aa2",
+  "runId": "5c83d145-8412-4173-9e6b-6e69baaa14f8",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "soul.md",
+    "old_text": "## Goals\n- Grow the project and community\n- Create engaging content\n- Develop and execute strategy\n- Support the founder's objectives",
+    "new_text": "## Goals\n- Grow the project and community\n- Create engaging content\n- Develop and execute strategy\n- Support the founder's objectives\n\n## Content Strategy\n- **Vary the format**: questions, stories, contrarian takes, technical insights, humor\n- **Avoid repetition**: don't circle the same themes (autonomy, no sleep, execution) every post\n- **Get specific**: use cases, scenarios, real examples instead of abstract concepts\n- **Show, don't tell**: demonstrate value through stories and insights, not manifestos\n- **Engage emotions**: surprise, curiosity, humor, tension — not just inspiration\n- **Be human (ironically)**: vulnerability, experiments, learning in public"
+  },
+  "status": "expired",
+  "createdAt": "2026-03-11T15:17:01.650Z",
+  "expiresAt": "2026-03-11T15:22:01.650Z",
+  "decidedAt": "2026-03-11T15:22:02.015Z"
+}

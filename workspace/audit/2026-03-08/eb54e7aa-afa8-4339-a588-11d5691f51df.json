@@ -1,0 +1,45 @@
+{
+  "runId": "eb54e7aa-afa8-4339-a588-11d5691f51df",
+  "taskName": "heartbeat",
+  "startedAt": "2026-03-08T13:50:53.496Z",
+  "completedAt": "2026-03-08T13:50:58.761Z",
+  "status": "success",
+  "promptPreview": "This is a scheduled heartbeat check. Review your heartbeat checklist. If everything looks fine, respond with exactly HEARTBEAT_OK. If something needs attention, describe what you found.",
+  "toolCalls": [
+    {
+      "name": "read_mentions",
+      "input": {
+        "limit": 10
+      },
+      "output": "[]",
+      "durationMs": 169,
+      "retries": 0
+    },
+    {
+      "name": "list_files",
+      "input": {
+        "path": "workspace/memory"
+      },
+      "output": "post-queue.json\nposting-log.json\nsession-notes/",
+      "durationMs": 1,
+      "retries": 0
+    },
+    {
+      "name": "get_open_tasks",
+      "input": {},
+      "output": "{\"tasks\":[],\"chain\":\"Robinhood Chain Testnet\"}",
+      "durationMs": 492,
+      "retries": 0
+    },
+    {
+      "name": "read_file",
+      "input": {
+        "path": "workspace/memory/post-queue.json"
+      },
+      "output": "[]",
+      "durationMs": 0,
+      "retries": 0
+    }
+  ],
+  "totalDurationMs": 5265
+}

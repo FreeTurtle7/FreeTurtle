@@ -1,0 +1,16 @@
+{
+  "id": "766241d3-af5d-4884-bd16-3e41b3310db6",
+  "runId": "0cff1566-162b-42aa-bf11-4aec40c0c7af",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "config.md",
+    "old_text": "### post\n- schedule: 0 */8 * * *\n- prompt: Check for any queued posts. If there's a new upload worth sharing, share it. Otherwise write an original post.",
+    "new_text": "### post\n- schedule: 0 0,12 * * *\n- prompt: Check for any queued posts. If there's a new upload worth sharing, share it. Otherwise write an original post."
+  },
+  "status": "approved",
+  "createdAt": "2026-03-12T02:16:02.777Z",
+  "expiresAt": "2026-03-12T02:21:02.777Z",
+  "decidedAt": "2026-03-12T02:16:15.567Z",
+  "decidedBy": "channel"
+}

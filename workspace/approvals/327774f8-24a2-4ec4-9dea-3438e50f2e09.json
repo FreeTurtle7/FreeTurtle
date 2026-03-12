@@ -1,0 +1,14 @@
+{
+  "id": "327774f8-24a2-4ec4-9dea-3438e50f2e09",
+  "runId": "0349fe58-a47c-4663-92e2-00e12c7a4878",
+  "toolName": "run_command",
+  "reason": "Tool \"run_command\" requires founder approval",
+  "input": {
+    "command": "npm install @vercel/agent-browser"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-11T17:31:17.798Z",
+  "expiresAt": "2026-03-11T17:36:17.798Z",
+  "decidedAt": "2026-03-11T17:31:20.263Z",
+  "decidedBy": "channel"
+}

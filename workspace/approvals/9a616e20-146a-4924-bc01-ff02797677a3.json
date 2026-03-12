@@ -1,0 +1,14 @@
+{
+  "id": "9a616e20-146a-4924-bc01-ff02797677a3",
+  "runId": "594e1fab-40ba-45bc-9bb3-cb7f5ebb18a8",
+  "toolName": "delete_cast",
+  "reason": "Tool \"delete_cast\" requires founder approval",
+  "input": {
+    "target_hash": "0x28c454afa3d9429158800dc4bcb86e3c96d36a2a"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-11T18:00:31.130Z",
+  "expiresAt": "2026-03-11T18:05:31.130Z",
+  "decidedAt": "2026-03-11T18:01:07.933Z",
+  "decidedBy": "channel"
+}

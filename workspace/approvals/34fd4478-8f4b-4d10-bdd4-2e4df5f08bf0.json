@@ -1,0 +1,14 @@
+{
+  "id": "34fd4478-8f4b-4d10-bdd4-2e4df5f08bf0",
+  "runId": "5b2763e8-0ae3-41e5-90d9-2adbd0967005",
+  "toolName": "run_command",
+  "reason": "Tool \"run_command\" requires founder approval",
+  "input": {
+    "command": "npm install -g agent-browser"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-11T17:32:30.582Z",
+  "expiresAt": "2026-03-11T17:37:30.582Z",
+  "decidedAt": "2026-03-11T17:32:34.317Z",
+  "decidedBy": "channel"
+}
