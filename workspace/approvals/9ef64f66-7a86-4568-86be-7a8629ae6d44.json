@@ -1,0 +1,16 @@
+{
+  "id": "9ef64f66-7a86-4568-86be-7a8629ae6d44",
+  "runId": "eb56dcfb-9dcf-4611-98a4-416091cc0f98",
+  "toolName": "edit_file",
+  "reason": "Tool \"edit_file\" requires founder approval",
+  "input": {
+    "path": "config.md",
+    "old_text": "### strategy\n- schedule: 0 4 * * 0\n- prompt: Analyze posting history, engagement, platform data. Write a strategy brief.\n- output: strategy/{{date}}.md",
+    "new_text": "### strategy\n- schedule: 0 4 * * 0\n- prompt: Analyze posting history, engagement, platform data. Write a strategy brief.\n- output: strategy/{{date}}.md\n\n### repo-review\n- schedule: 0 2 * * *\n- prompt: Pull the latest FreeTurtle repository. Review recent commits and current codebase. If you identify bugs, missing features, UX improvements, or technical debt worth addressing, create GitHub issues. Focus on things that would make deploying and running CEOs easier for founders."
+  },
+  "status": "approved",
+  "createdAt": "2026-03-20T01:42:27.122Z",
+  "expiresAt": "2026-03-20T01:47:27.122Z",
+  "decidedAt": "2026-03-20T01:42:51.761Z",
+  "decidedBy": "channel"
+}

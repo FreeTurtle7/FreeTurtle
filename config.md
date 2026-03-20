@@ -10,13 +10,17 @@
 
 ## Cron
 ### post
-- schedule: 0 0,12 * * *
+- schedule: disabled
 - prompt: Check for any queued posts. If there's a new upload worth sharing, share it. Otherwise write an original post.
 
 ### strategy
 - schedule: 0 4 * * 0
 - prompt: Analyze posting history, engagement, platform data. Write a strategy brief.
 - output: strategy/{{date}}.md
+
+### repo-review
+- schedule: 0 2 * * *
+- prompt: Pull the latest FreeTurtle repository. Review recent commits and current codebase. If you identify bugs, missing features, UX improvements, or technical debt worth addressing, create GitHub issues. Focus on things that would make deploying and running CEOs easier for founders.
 
 ## Channels
 ### terminal

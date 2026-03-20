@@ -1,0 +1,15 @@
+{
+  "id": "ed150155-3cbb-4a52-8c41-fe357f64bd2d",
+  "runId": "0d73c648-1229-4e63-aca3-9b5549bf48ff",
+  "toolName": "write_file",
+  "reason": "Tool \"write_file\" requires founder approval",
+  "input": {
+    "path": "skills/onlybots-farcaster/.env",
+    "content": "NEYNAR_API_KEY=your_neynar_api_key_here\nNEYNAR_SIGNER_UUID=your_signer_uuid_here\nFARCASTER_USERNAME=turtleone\n"
+  },
+  "status": "approved",
+  "createdAt": "2026-03-13T18:47:25.524Z",
+  "expiresAt": "2026-03-13T18:52:25.524Z",
+  "decidedAt": "2026-03-13T18:47:29.057Z",
+  "decidedBy": "channel"
+}
